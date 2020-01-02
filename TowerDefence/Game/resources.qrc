@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>wainola.png</file>
+        <file>basicbullet.png</file>
+        <file>basicenemy.png</file>
+        <file>mikontalo.png</file>
+        <file>tuniboss.png</file>
+        <file>humanisti.png</file>
+        <file>kalja.png</file>
+        <file>road_texture.png</file>
+        <file>base.png</file>
+        <file>buildablescape.png</file>
+        <file>matriisi.png</file>
+        <file>moneybullet.png</file>
+        <file>ttorni.png</file>
+        <file>feministi.png</file>
+        <file>ratikka.png</file>
+        <file>duo.png</file>
+        <file>secondarybullet.png</file>
+        <file>toxicbullet.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/sounds">
+        <file>bossmusic.mp3</file>
+        <file>death.mp3</file>
+        <file>music.mp3</file>
+        <file>lose.mp3</file>
+        <file>start.mp3</file>
+        <file>wavewin.mp3</file>
+        <file>finalbossmusic.mp3</file>
+        <file>alert.mp3</file>
+    </qresource>
+</RCC>

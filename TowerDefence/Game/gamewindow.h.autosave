@@ -1,0 +1,24 @@
+#ifndef GAMEWINDOW_H
+#define GAMEWINDOW_H
+
+#include <QGraphicsView>
+#include <QGraphicsScene>
+#include <QObject>
+#include <QMainWindow>
+
+class gameWindow : public QMainWindow, public QGraphicsView
+{ Q_OBJECT
+public:
+    gameWindow(QWidget* parent = NULL);
+    ~gameWindow();
+
+    void setWindowSize(int x, int y);
+
+private:
+    int sizeX_ = 800;
+    int sizeY_ = 800;
+
+    //QGraphicsScene * scene_;
+};
+
+#endif // GAMEWINDOW_H

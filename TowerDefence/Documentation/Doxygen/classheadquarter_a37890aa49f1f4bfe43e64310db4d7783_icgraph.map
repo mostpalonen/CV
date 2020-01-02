@@ -1,0 +1,4 @@
+<map id="headquarter::takeDamage" name="headquarter::takeDamage">
+<area shape="rect" id="node2" href="$classheadquarter.html#acf9c61b176e1a9e7becc261ce8b2d8cc" title="headquarter::checkHit" alt="" coords="224,5,373,32"/>
+<area shape="rect" id="node3" href="$classheadquarter.html#adbfc6973625f9b6812ce89eda4b668f4" title="headquarter::headquarter" alt="" coords="421,5,588,32"/>
+</map>

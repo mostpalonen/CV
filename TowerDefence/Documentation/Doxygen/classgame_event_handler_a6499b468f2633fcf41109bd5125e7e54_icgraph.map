@@ -1,0 +1,4 @@
+<map id="gameEventHandler::createRoad" name="gameEventHandler::createRoad">
+<area shape="rect" id="node2" href="$class_main_window.html#a9aa7c25c5f65d9ffe32464301761752c" title="MainWindow::generateMap" alt="" coords="257,5,436,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="484,5,663,32"/>
+</map>

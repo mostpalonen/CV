@@ -1,0 +1,33 @@
+#include "gamewindow.h"
+
+gameWindow::gameWindow(QWidget *parent) : 
+    QMainWindow(parent),
+    QGraphicsView(),
+    ui(new Ui::gameWindow)
+    {
+
+
+    //Luodaan uusi scene
+    QGraphicsScene * scene = new QGraphicsScene(this);
+    scene->setSceneRect(0, 0, sizeX_, sizeY_);
+
+    ui->setupUi(this);
+
+    setScene(scene);
+
+    setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+
+}
+
+gameWindow::~gameWindow(){
+
+}
+
+void gameWindow::setWindowSize(int x, int y)
+{
+    sizeX_ = x;
+    sizeY_ = y;
+
+    setFixedSize(sizeX_, sizeY_);
+}

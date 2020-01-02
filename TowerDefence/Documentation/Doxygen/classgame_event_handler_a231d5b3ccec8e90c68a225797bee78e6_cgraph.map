@@ -1,0 +1,6 @@
+<map id="gameEventHandler::spawnFinalBoss" name="gameEventHandler::spawnFinalBoss">
+<area shape="rect" id="node2" href="$classgame_event_handler.html#a5dadcdb4f3af2ab3161cfdab17ad42d9" title="gameEventHandler::remove\lEnemy" alt="" coords="287,23,465,65"/>
+<area shape="rect" id="node3" href="$class_main_window.html#ae0983c630c349cc386acc4742f291d7a" title="MainWindow::passCost" alt="" coords="518,5,677,32"/>
+<area shape="rect" id="node5" href="$class_sound_engine.html#aeecdbdcbc7a9967132ed7be96df8acdd" title="SoundEngine::playSound" alt="" coords="513,56,681,83"/>
+<area shape="rect" id="node4" href="$class_resource_manager.html#afaa3bb857e520d34f22ab6266982987b" title="ResourceManager::modifyResource" alt="" coords="729,5,957,32"/>
+</map>

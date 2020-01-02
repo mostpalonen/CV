@@ -1,0 +1,4 @@
+<map id="BasicEnemy::checkHit" name="BasicEnemy::checkHit">
+<area shape="rect" id="node2" href="$class_basic_enemy.html#a872197c6073adc5a6a57a7b031d8f721" title="BasicEnemy::setHealth" alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="223,56,352,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MainWindow::generateMap" name="MainWindow::generateMap">
+<area shape="rect" id="node2" href="$class_object_manager.html#aeeb2e26960c5c7b68216020ba7008acb" title="ObjectManager::addSpace" alt="" coords="246,5,422,32"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#ab78d0f1b42162f594318fbcd2db7b899" title="ObjectManager::resetSpace\lStates" alt="" coords="242,57,426,98"/>
+<area shape="rect" id="node4" href="$classgame_event_handler.html#a6499b468f2633fcf41109bd5125e7e54" title="gameEventHandler::createRoad" alt="" coords="232,123,436,149"/>
+<area shape="rect" id="node5" href="$class_object_manager.html#a60911fd446d1d81278375745a31cdaf5" title="ObjectManager::setBuildMode" alt="" coords="235,173,433,200"/>
+<area shape="rect" id="node6" href="$class_object_manager.html#aea81f5e3b5f5c16f360c8d37eba6f496" title="ObjectManager::addTower" alt="" coords="247,224,421,251"/>
+<area shape="rect" id="node7" href="$class_object_manager.html#aea36cf4581c0f4176cd8768c90dc024e" title="ObjectManager::addRes" alt="" coords="484,224,647,251"/>
+</map>

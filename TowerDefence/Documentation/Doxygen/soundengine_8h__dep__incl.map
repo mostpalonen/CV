@@ -1,0 +1,37 @@
+<map id="managers/soundengine.h" name="managers/soundengine.h">
+<area shape="rect" id="node2" href="$enemybase_8h.html" title="enemies/enemybase.h" alt="" coords="369,80,522,107"/>
+<area shape="rect" id="node7" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="1049,453,1151,480"/>
+<area shape="rect" id="node36" href="$soundengine_8cpp.html" title="managers/soundengine.cpp" alt="" coords="1973,80,2155,107"/>
+<area shape="rect" id="node3" href="$towerbase_8h.html" title="towers/towerbase.h" alt="" coords="997,155,1131,181"/>
+<area shape="rect" id="node9" href="$headquarter_8h.html" title="towers/headquarter.h" alt="" coords="377,528,519,555"/>
+<area shape="rect" id="node14" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="701,752,819,779"/>
+<area shape="rect" id="node17" href="$enemybase_8cpp.html" title="enemies/enemybase.cpp" alt="" coords="505,603,671,629"/>
+<area shape="rect" id="node19" href="$headquarter_8cpp.html" title="towers/headquarter.cpp" alt="" coords="43,603,200,629"/>
+<area shape="rect" id="node28" href="$gameeventhandler_8h.html" title="managers/gameeventhandler.h" alt="" coords="530,229,729,256"/>
+<area shape="rect" id="node31" href="$basicenemy_8h.html" title="enemies/basicenemy.h" alt="" coords="197,155,353,181"/>
+<area shape="rect" id="node32" href="$humanisti_8h.html" title="enemies/humanisti.h" alt="" coords="429,155,571,181"/>
+<area shape="rect" id="node34" href="$feministi_8h.html" title="enemies/feministi.h" alt="" coords="647,155,782,181"/>
+<area shape="rect" id="node4" href="$wainola_8h.html" title="towers/wainola.h" alt="" coords="1005,229,1123,256"/>
+<area shape="rect" id="node11" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="1623,677,1763,704"/>
+<area shape="rect" id="node30" href="$towerbase_8cpp.html" title="towers/towerbase.cpp" alt="" coords="1263,229,1411,256"/>
+<area shape="rect" id="node5" href="$dialoginfo_8h.html" title="dialoginfo.h" alt="" coords="893,304,979,331"/>
+<area shape="rect" id="node27" href="$wainola_8cpp.html" title="towers/wainola.cpp" alt="" coords="1055,304,1187,331"/>
+<area shape="rect" id="node6" href="$dialogstart_8h.html" title="dialogstart.h" alt="" coords="797,379,891,405"/>
+<area shape="rect" id="node26" href="$dialoginfo_8cpp.html" title="dialoginfo.cpp" alt="" coords="915,379,1016,405"/>
+<area shape="rect" id="node25" href="$dialogstart_8cpp.html" title="dialogstart.cpp" alt="" coords="797,453,904,480"/>
+<area shape="rect" id="node8" href="$basicbullet_8cpp.html" title="bullets/basicbullet.cpp" alt="" coords="849,528,999,555"/>
+<area shape="rect" id="node13" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="1149,677,1344,704"/>
+<area shape="rect" id="node20" href="$bullet_8cpp.html" title="bullets/bullet.cpp" alt="" coords="1149,528,1269,555"/>
+<area shape="rect" id="node21" href="$moneybullet_8cpp.html" title="bullets/moneybullet.cpp" alt="" coords="1294,528,1453,555"/>
+<area shape="rect" id="node22" href="$secondary_8cpp.html" title="bullets/secondary.cpp" alt="" coords="1477,528,1627,555"/>
+<area shape="rect" id="node23" href="$toxicbullet_8cpp.html" title="bullets/toxicbullet.cpp" alt="" coords="1651,528,1799,555"/>
+<area shape="rect" id="node24" href="$main_8cpp.html" title="main.cpp" alt="" coords="1824,528,1899,555"/>
+<area shape="rect" id="node10" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="877,603,1088,629"/>
+<area shape="rect" id="node18" href="$gameeventhandler_8cc.html" title="managers/gameeventhandler.cc" alt="" coords="224,603,429,629"/>
+<area shape="rect" id="node16" href="$gameobjectmanager_8cpp.html" title="managers/gameobjectmanager.cpp" alt="" coords="899,677,1125,704"/>
+<area shape="rect" id="node12" href="$buildingspace_8cpp.html" title="tiles/buildingspace.cpp" alt="" coords="1616,752,1771,779"/>
+<area shape="rect" id="node15" href="$resourcemanager_8cpp.html" title="managers/resourcemanager.cpp" alt="" coords="1143,752,1351,779"/>
+<area shape="rect" id="node29" href="$basicenemy_8cpp.html" title="enemies/basicenemy.cpp" alt="" coords="349,304,520,331"/>
+<area shape="rect" id="node33" href="$humanisti_8cpp.html" title="enemies/humanisti.cpp" alt="" coords="350,229,506,256"/>
+<area shape="rect" id="node35" href="$feministi_8cpp.html" title="enemies/feministi.cpp" alt="" coords="753,229,901,256"/>
+</map>

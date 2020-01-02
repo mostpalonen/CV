@@ -1,0 +1,5 @@
+<map id="gameEventHandler::spawnFinalBoss" name="gameEventHandler::spawnFinalBoss">
+<area shape="rect" id="node2" href="$classgame_event_handler.html#aa284565d08804fe58b672cfeae071c5f" title="gameEventHandler::startWave" alt="" coords="287,5,483,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#aa05813d353cccf400d3561cc309089af" title="MainWindow::startGame" alt="" coords="531,5,696,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="744,5,923,32"/>
+</map>

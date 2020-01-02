@@ -1,0 +1,4 @@
+<map id="Feministi::checkHit" name="Feministi::checkHit">
+<area shape="rect" id="node2" href="$class_feministi.html#a8762d463672cb3da249b2c70a2bfc7ff" title="Feministi::setHealth" alt="" coords="188,5,327,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="193,56,322,83"/>
+</map>

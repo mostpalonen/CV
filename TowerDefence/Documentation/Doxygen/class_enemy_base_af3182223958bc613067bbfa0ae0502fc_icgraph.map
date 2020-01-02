@@ -1,0 +1,14 @@
+<map id="EnemyBase::rotateToPoint" name="EnemyBase::rotateToPoint">
+<area shape="rect" id="node2" href="$class_basic_enemy.html#ad00924e3efb51ed9d449af51a5b148cd" title="BasicEnemy::moveForward" alt="" coords="232,5,412,32"/>
+<area shape="rect" id="node4" href="$class_enemy_base.html#a2efaa72eaefeec86df3f328c5b699031" title="EnemyBase::EnemyBase" alt="" coords="236,56,408,83"/>
+<area shape="rect" id="node5" href="$class_enemy_base.html#a6d01c4534a8d4c19f22f13f52a0f9097" title="EnemyBase::moveForward" alt="" coords="233,107,411,133"/>
+<area shape="rect" id="node6" href="$class_feministi.html#af2202198d4a16e989e811742a3ce8372" title="Feministi::moveForward" alt="" coords="243,157,401,184"/>
+<area shape="rect" id="node8" href="$class_humanisti.html#a4842f175c37fe868d50a4a238a3e139e" title="Humanisti::moveForward" alt="" coords="240,208,404,235"/>
+<area shape="rect" id="node10" href="$class_raitsikka.html#a0d633d02106a98b9d443d4d6f2d661bb" title="Raitsikka::moveForward" alt="" coords="242,259,402,285"/>
+<area shape="rect" id="node12" href="$class_tuniboss.html#af31ac0c703fcdaffd41b944c4b8737f8" title="Tuniboss::moveForward" alt="" coords="243,309,401,336"/>
+<area shape="rect" id="node3" href="$class_basic_enemy.html#aedc018318321fd37ba4a8bb9ad74b8ee" title="BasicEnemy::BasicEnemy" alt="" coords="460,5,639,32"/>
+<area shape="rect" id="node7" href="$class_feministi.html#aa1bdab65ea886c25d8e5c5c2f7b2d41c" title="Feministi::Feministi" alt="" coords="481,157,617,184"/>
+<area shape="rect" id="node9" href="$class_humanisti.html#a81ec035cfbe05e97d8a63fd1a6dada8b" title="Humanisti::Humanisti" alt="" coords="476,208,623,235"/>
+<area shape="rect" id="node11" href="$class_raitsikka.html#a4d261e4d8c9fa7463590c67741cd909e" title="Raitsikka::Raitsikka" alt="" coords="480,259,619,285"/>
+<area shape="rect" id="node13" href="$class_tuniboss.html#af2262d0b9fcc5e08071a6d7141ba831e" title="Tuniboss::Tuniboss" alt="" coords="482,309,617,336"/>
+</map>

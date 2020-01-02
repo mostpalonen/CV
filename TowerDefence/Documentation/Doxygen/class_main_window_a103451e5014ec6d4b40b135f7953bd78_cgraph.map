@@ -1,0 +1,5 @@
+<map id="MainWindow::buildWainola" name="MainWindow::buildWainola">
+<area shape="rect" id="node2" href="$class_resource_manager.html#aaebf1632ffb332dd3f5e40994714a95f" title="ResourceManager::checkResources" alt="" coords="232,5,464,32"/>
+<area shape="rect" id="node4" href="$class_object_manager.html#a60911fd446d1d81278375745a31cdaf5" title="ObjectManager::setBuildMode" alt="" coords="249,56,447,83"/>
+<area shape="rect" id="node3" href="$class_resource_manager.html#adc6cfc4031ec6a729279e916b063ae99" title="ResourceManager::getResource" alt="" coords="512,5,720,32"/>
+</map>

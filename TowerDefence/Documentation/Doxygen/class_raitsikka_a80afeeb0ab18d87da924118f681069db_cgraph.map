@@ -1,0 +1,4 @@
+<map id="Raitsikka::checkHit" name="Raitsikka::checkHit">
+<area shape="rect" id="node2" href="$class_raitsikka.html#add7810215875852476b3b3de476538c2" title="Raitsikka::setHealth" alt="" coords="188,5,327,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="193,56,322,83"/>
+</map>

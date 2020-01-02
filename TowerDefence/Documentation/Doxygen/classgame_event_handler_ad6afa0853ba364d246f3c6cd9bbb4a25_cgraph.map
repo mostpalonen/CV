@@ -1,0 +1,7 @@
+<map id="gameEventHandler::gameOver" name="gameEventHandler::gameOver">
+<area shape="rect" id="node2" href="$class_main_window.html#a9520ad6fc26de27bf160f83e4a0799c3" title="MainWindow::roundStatus" alt="" coords="265,5,439,32"/>
+<area shape="rect" id="node4" href="$class_sound_engine.html#a1da749d065878612fbeb8d99ae96fe19" title="SoundEngine::stopSounds" alt="" coords="264,56,440,83"/>
+<area shape="rect" id="node5" href="$class_sound_engine.html#aeecdbdcbc7a9967132ed7be96df8acdd" title="SoundEngine::playSound" alt="" coords="268,107,436,133"/>
+<area shape="rect" id="node6" href="$classgame_event_handler.html#aa5f7b48a074f7514723498590d2e353c" title="gameEventHandler::clearTimers\lAndEnemies" alt="" coords="249,158,455,199"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#a964f4d629a469bc6988f73e456dfaf43" title="ObjectManager::roundStatus" alt="" coords="503,5,691,32"/>
+</map>

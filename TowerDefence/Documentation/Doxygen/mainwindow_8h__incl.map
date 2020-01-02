@@ -1,0 +1,17 @@
+<map id="mainwindow.h" name="mainwindow.h">
+<area shape="rect" id="node3" href="$dialogstart_8h.html" title="dialogstart.h" alt="" coords="341,80,435,107"/>
+<area shape="rect" id="node11" href="$player_8h.html" title="player.h" alt="" coords="649,80,717,107"/>
+<area shape="rect" id="node14" href="$gameeventhandler_8h.html" title="managers/gameeventhandler.h" alt="" coords="1833,80,2031,107"/>
+<area shape="rect" id="node18" href="$towerbase_8h.html" title="../towers/towerbase.h" alt="" coords="1419,155,1565,181"/>
+<area shape="rect" id="node28" href="$soundengine_8h.html" title="managers/soundengine.h" alt="" coords="3003,304,3170,331"/>
+<area shape="rect" id="node38" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="2956,155,3167,181"/>
+<area shape="rect" id="node47" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="2716,80,2911,107"/>
+<area shape="rect" id="node49" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="1159,80,1299,107"/>
+<area shape="rect" id="node6" href="$dialoginfo_8h.html" title="dialoginfo.h" alt="" coords="387,155,474,181"/>
+<area shape="rect" id="node26" href="$enemybase_8h.html" title="enemies/enemybase.h" alt="" coords="2097,229,2250,256"/>
+<area shape="rect" id="node32" href="$basicenemy_8h.html" title="../enemies/basicenemy.h" alt="" coords="2405,155,2573,181"/>
+<area shape="rect" id="node33" href="$tuniboss_8h.html" title="../enemies/tuniboss.h" alt="" coords="1197,155,1344,181"/>
+<area shape="rect" id="node34" href="$humanisti_8h.html" title="../enemies/humanisti.h" alt="" coords="2056,155,2211,181"/>
+<area shape="rect" id="node35" href="$feministi_8h.html" title="../enemies/feministi.h" alt="" coords="2235,155,2381,181"/>
+<area shape="rect" id="node36" href="$raitsikka_8h.html" title="../enemies/raitsikka.h" alt="" coords="1792,155,1939,181"/>
+</map>

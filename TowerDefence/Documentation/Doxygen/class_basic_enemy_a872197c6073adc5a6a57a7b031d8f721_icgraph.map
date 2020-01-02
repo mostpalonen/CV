@@ -1,0 +1,4 @@
+<map id="BasicEnemy::setHealth" name="BasicEnemy::setHealth">
+<area shape="rect" id="node2" href="$class_basic_enemy.html#aaf6a1037f12a920214b9b7ffc6be6b7d" title="BasicEnemy::checkHit" alt="" coords="212,5,367,32"/>
+<area shape="rect" id="node3" href="$class_basic_enemy.html#aedc018318321fd37ba4a8bb9ad74b8ee" title="BasicEnemy::BasicEnemy" alt="" coords="415,5,593,32"/>
+</map>

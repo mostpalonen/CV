@@ -1,0 +1,28 @@
+image: pervasivetut/alpine_qt_5.9.6:latest
+
+stages:
+  -build
+  -test
+
+build_Game:
+  stage: build
+  tags:
+    -qt
+  script:
+    -cd Game
+    -qmake
+    -make
+    -make clean
+  allow_failure: true
+
+UnitTest:
+  stage: build
+  tags:
+    -qt
+  script:
+    -cd UnitTests
+    -qmake
+    -make
+    -make clean
+  artifacts:
+    -UnitTests/tst_unittest

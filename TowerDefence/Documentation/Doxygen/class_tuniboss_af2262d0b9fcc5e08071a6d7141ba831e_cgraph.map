@@ -1,0 +1,10 @@
+<map id="Tuniboss::Tuniboss" name="Tuniboss::Tuniboss">
+<area shape="rect" id="node2" href="$class_enemy_base.html#af6c9612d32f18d6dcfebc4f41b6c097d" title="EnemyBase::getDestination" alt="" coords="188,5,372,32"/>
+<area shape="rect" id="node3" href="$class_enemy_base.html#a83d461cb4e43a456872946a5610721ed" title="EnemyBase::getPointIndex" alt="" coords="190,56,370,83"/>
+<area shape="rect" id="node4" href="$class_tuniboss.html#af31ac0c703fcdaffd41b944c4b8737f8" title="Tuniboss::moveForward" alt="" coords="201,107,359,133"/>
+<area shape="rect" id="node6" href="$class_tuniboss.html#a333a04753501f1eea37ace57181c043d" title="Tuniboss::checkHit" alt="" coords="213,183,347,209"/>
+<area shape="rect" id="node5" href="$class_enemy_base.html#af3182223958bc613067bbfa0ae0502fc" title="EnemyBase::rotateToPoint" alt="" coords="420,93,599,120"/>
+<area shape="rect" id="node7" href="$class_tuniboss.html#a49caf6773c229612b19374370ffc01b6" title="Tuniboss::setHealth" alt="" coords="441,144,578,171"/>
+<area shape="rect" id="node8" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="445,195,574,221"/>
+<area shape="rect" id="node9" href="$class_tuniboss.html#a840880fc1cbeb92b9430d058b74094e5" title="Tuniboss::getHealth" alt="" coords="441,245,578,272"/>
+</map>

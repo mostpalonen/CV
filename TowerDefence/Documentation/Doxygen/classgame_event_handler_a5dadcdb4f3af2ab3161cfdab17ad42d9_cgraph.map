@@ -1,0 +1,5 @@
+<map id="gameEventHandler::removeEnemy" name="gameEventHandler::removeEnemy">
+<area shape="rect" id="node2" href="$class_main_window.html#ae0983c630c349cc386acc4742f291d7a" title="MainWindow::passCost" alt="" coords="237,5,395,32"/>
+<area shape="rect" id="node4" href="$class_sound_engine.html#aeecdbdcbc7a9967132ed7be96df8acdd" title="SoundEngine::playSound" alt="" coords="232,56,400,83"/>
+<area shape="rect" id="node3" href="$class_resource_manager.html#afaa3bb857e520d34f22ab6266982987b" title="ResourceManager::modifyResource" alt="" coords="448,5,676,32"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classobject_manager.html" title="objectManager" alt="" coords="217,5,323,32"/>
+<area shape="rect" id="node4" href="$class_building_space.html" title="BuildingSpace" alt="" coords="217,487,323,513"/>
+<area shape="rect" id="node5" href="$class_bullet.html" title="Bullet" alt="" coords="243,208,297,235"/>
+<area shape="rect" id="node10" href="$class_enemy_base.html" title="EnemyBase" alt="" coords="223,259,317,285"/>
+<area shape="rect" id="node16" href="$classheadquarter.html" title="headquarter" alt="" coords="225,309,315,336"/>
+<area shape="rect" id="node17" href="$class_tower_base.html" title="TowerBase" alt="" coords="227,436,313,463"/>
+<area shape="rect" id="node6" href="$class_basic_bullet.html" title="QObject" alt="" coords="47,208,117,235"/>
+<area shape="rect" id="node7" href="$class_moneybullet.html" title="Moneybullet" alt="" coords="383,5,475,32"/>
+<area shape="rect" id="node8" href="$class_secondary.html" title="Secondary" alt="" coords="387,56,471,83"/>
+<area shape="rect" id="node9" href="$class_toxic_bullet.html" title="ToxicBullet" alt="" coords="386,107,473,133"/>
+<area shape="rect" id="node23" href="$class_object_manager.html" title="ObjectManager" alt="" coords="215,56,325,83"/>
+<area shape="rect" id="node24" href="$class_resource_manager.html" title="ResourceManager" alt="" coords="207,107,333,133"/>
+<area shape="rect" id="node25" href="$class_sound_engine.html" title="SoundEngine" alt="" coords="221,157,319,184"/>
+<area shape="rect" id="node11" href="$class_basic_enemy.html" title="BasicEnemy" alt="" coords="381,157,477,184"/>
+<area shape="rect" id="node12" href="$class_feministi.html" title="Feministi" alt="" coords="392,208,467,235"/>
+<area shape="rect" id="node13" href="$class_humanisti.html" title="Humanisti" alt="" coords="389,259,469,285"/>
+<area shape="rect" id="node14" href="$class_raitsikka.html" title="Raitsikka" alt="" coords="391,309,467,336"/>
+<area shape="rect" id="node15" href="$class_tuniboss.html" title="Tuniboss" alt="" coords="392,360,467,387"/>
+<area shape="rect" id="node18" href="$class_duo.html" title="Duo" alt="" coords="407,411,452,437"/>
+<area shape="rect" id="node19" href="$class_matriisit.html" title="Matriisit" alt="" coords="395,461,463,488"/>
+<area shape="rect" id="node20" href="$class_mikontalo.html" title="Mikontalo" alt="" coords="390,512,469,539"/>
+<area shape="rect" id="node21" href="$class_t_torni.html" title="TTorni" alt="" coords="401,563,458,589"/>
+<area shape="rect" id="node22" href="$class_wainola.html" title="Wainola" alt="" coords="395,613,464,640"/>
+</map>

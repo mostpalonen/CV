@@ -1,0 +1,5 @@
+<map id="headquarter::getHealth" name="headquarter::getHealth">
+<area shape="rect" id="node2" href="$class_object_manager.html#aa2bea3ebe4eea169085aa8b3f4bac193" title="ObjectManager::getHqHealth" alt="" coords="207,5,396,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a6755e68cf52bab1d9867e24326713b6b" title="MainWindow::checkResources" alt="" coords="444,5,645,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="693,5,872,32"/>
+</map>

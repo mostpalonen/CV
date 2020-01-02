@@ -1,0 +1,11 @@
+<map id="managers/gameeventhandler.h" name="managers/gameeventhandler.h">
+<area shape="rect" id="node7" href="$towerbase_8h.html" title="../towers/towerbase.h" alt="" coords="1555,80,1702,107"/>
+<area shape="rect" id="node19" href="$enemybase_8h.html" title="enemies/enemybase.h" alt="" coords="669,155,822,181"/>
+<area shape="rect" id="node26" href="$basicenemy_8h.html" title="../enemies/basicenemy.h" alt="" coords="779,80,947,107"/>
+<area shape="rect" id="node27" href="$tuniboss_8h.html" title="../enemies/tuniboss.h" alt="" coords="208,80,355,107"/>
+<area shape="rect" id="node29" href="$humanisti_8h.html" title="../enemies/humanisti.h" alt="" coords="379,80,534,107"/>
+<area shape="rect" id="node30" href="$feministi_8h.html" title="../enemies/feministi.h" alt="" coords="558,80,704,107"/>
+<area shape="rect" id="node31" href="$raitsikka_8h.html" title="../enemies/raitsikka.h" alt="" coords="38,80,184,107"/>
+<area shape="rect" id="node24" href="$bullet_8h.html" title="bullets/bullet.h" alt="" coords="1936,155,2043,181"/>
+<area shape="rect" id="node21" href="$soundengine_8h.html" title="managers/soundengine.h" alt="" coords="554,229,721,256"/>
+</map>

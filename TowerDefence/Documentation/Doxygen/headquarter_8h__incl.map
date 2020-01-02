@@ -1,0 +1,18 @@
+<map id="towers/headquarter.h" name="towers/headquarter.h">
+<area shape="rect" id="node9" href="$enemybase_8h.html" title="enemies/enemybase.h" alt="" coords="1680,304,1834,331"/>
+<area shape="rect" id="node16" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="1812,80,1915,107"/>
+<area shape="rect" id="node13" href="$soundengine_8h.html" title="managers/soundengine.h" alt="" coords="668,379,835,405"/>
+<area shape="rect" id="node18" href="$dialogstart_8h.html" title="dialogstart.h" alt="" coords="194,155,288,181"/>
+<area shape="rect" id="node25" href="$player_8h.html" title="player.h" alt="" coords="1587,155,1655,181"/>
+<area shape="rect" id="node27" href="$gameeventhandler_8h.html" title="managers/gameeventhandler.h" alt="" coords="1679,155,1878,181"/>
+<area shape="rect" id="node28" href="$towerbase_8h.html" title="../towers/towerbase.h" alt="" coords="4218,229,4365,256"/>
+<area shape="rect" id="node40" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="2798,229,3009,256"/>
+<area shape="rect" id="node49" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="3776,155,3970,181"/>
+<area shape="rect" id="node50" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="2370,155,2510,181"/>
+<area shape="rect" id="node21" href="$dialoginfo_8h.html" title="dialoginfo.h" alt="" coords="136,229,223,256"/>
+<area shape="rect" id="node34" href="$basicenemy_8h.html" title="../enemies/basicenemy.h" alt="" coords="1694,229,1862,256"/>
+<area shape="rect" id="node35" href="$tuniboss_8h.html" title="../enemies/tuniboss.h" alt="" coords="1081,229,1228,256"/>
+<area shape="rect" id="node36" href="$humanisti_8h.html" title="../enemies/humanisti.h" alt="" coords="1252,229,1406,256"/>
+<area shape="rect" id="node37" href="$feministi_8h.html" title="../enemies/feministi.h" alt="" coords="1524,229,1670,256"/>
+<area shape="rect" id="node38" href="$raitsikka_8h.html" title="../enemies/raitsikka.h" alt="" coords="910,229,1057,256"/>
+</map>

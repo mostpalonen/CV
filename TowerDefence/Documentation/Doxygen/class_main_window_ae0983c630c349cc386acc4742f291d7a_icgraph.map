@@ -1,0 +1,13 @@
+<map id="MainWindow::passCost" name="MainWindow::passCost">
+<area shape="rect" id="node2" href="$classgame_event_handler.html#a53353fb6284b9c7fc9e5c9f87f8b4905" title="gameEventHandler::winWave" alt="" coords="212,29,401,56"/>
+<area shape="rect" id="node7" href="$classgame_event_handler.html#a5dadcdb4f3af2ab3161cfdab17ad42d9" title="gameEventHandler::remove\lEnemy" alt="" coords="217,127,396,169"/>
+<area shape="rect" id="node3" href="$classgame_event_handler.html#aab3bdaaf9ed271f63f4ff1613ce75670" title="gameEventHandler::checkGoal" alt="" coords="466,5,666,32"/>
+<area shape="rect" id="node4" href="$classgame_event_handler.html#aa284565d08804fe58b672cfeae071c5f" title="gameEventHandler::startWave" alt="" coords="731,132,927,159"/>
+<area shape="rect" id="node5" href="$class_main_window.html#aa05813d353cccf400d3561cc309089af" title="MainWindow::startGame" alt="" coords="975,132,1140,159"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="1188,132,1367,159"/>
+<area shape="rect" id="node8" href="$classgame_event_handler.html#a04381c23d490e6e8dcbe1d60af3cb160" title="gameEventHandler::spawnEnemy" alt="" coords="458,56,674,83"/>
+<area shape="rect" id="node9" href="$classgame_event_handler.html#aaae7723ebec61697e967f1c08b0c7315" title="gameEventHandler::spawnHumanisti" alt="" coords="449,107,683,133"/>
+<area shape="rect" id="node10" href="$classgame_event_handler.html#a4265a8d693bb7bef9704b78f83beca83" title="gameEventHandler::spawnFeministi" alt="" coords="452,157,680,184"/>
+<area shape="rect" id="node11" href="$classgame_event_handler.html#a7b180aeff8df34a588b053b68089e12e" title="gameEventHandler::spawnRaitsikka" alt="" coords="451,208,681,235"/>
+<area shape="rect" id="node12" href="$classgame_event_handler.html#a231d5b3ccec8e90c68a225797bee78e6" title="gameEventHandler::spawnFinalBoss" alt="" coords="449,259,683,285"/>
+</map>

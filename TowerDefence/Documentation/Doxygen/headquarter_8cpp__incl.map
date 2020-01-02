@@ -1,0 +1,19 @@
+<map id="towers/headquarter.cpp" name="towers/headquarter.cpp">
+<area shape="rect" id="node2" href="$headquarter_8h.html" title="headquarter.h" alt="" coords="3741,80,3842,107"/>
+<area shape="rect" id="node10" href="$enemybase_8h.html" title="enemies/enemybase.h" alt="" coords="819,379,972,405"/>
+<area shape="rect" id="node17" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="3027,155,3129,181"/>
+<area shape="rect" id="node35" href="$basicenemy_8h.html" title="../enemies/basicenemy.h" alt="" coords="118,304,286,331"/>
+<area shape="rect" id="node14" href="$soundengine_8h.html" title="managers/soundengine.h" alt="" coords="43,453,209,480"/>
+<area shape="rect" id="node19" href="$dialogstart_8h.html" title="dialogstart.h" alt="" coords="2585,229,2678,256"/>
+<area shape="rect" id="node26" href="$player_8h.html" title="player.h" alt="" coords="3116,229,3184,256"/>
+<area shape="rect" id="node28" href="$gameeventhandler_8h.html" title="managers/gameeventhandler.h" alt="" coords="1113,229,1312,256"/>
+<area shape="rect" id="node29" href="$towerbase_8h.html" title="../towers/towerbase.h" alt="" coords="3562,304,3709,331"/>
+<area shape="rect" id="node41" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="2145,304,2355,331"/>
+<area shape="rect" id="node49" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="2846,229,3041,256"/>
+<area shape="rect" id="node50" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="3512,229,3652,256"/>
+<area shape="rect" id="node22" href="$dialoginfo_8h.html" title="dialoginfo.h" alt="" coords="2771,304,2857,331"/>
+<area shape="rect" id="node36" href="$tuniboss_8h.html" title="../enemies/tuniboss.h" alt="" coords="683,304,830,331"/>
+<area shape="rect" id="node37" href="$humanisti_8h.html" title="../enemies/humanisti.h" alt="" coords="1075,304,1230,331"/>
+<area shape="rect" id="node38" href="$feministi_8h.html" title="../enemies/feministi.h" alt="" coords="905,304,1051,331"/>
+<area shape="rect" id="node39" href="$raitsikka_8h.html" title="../enemies/raitsikka.h" alt="" coords="513,304,659,331"/>
+</map>

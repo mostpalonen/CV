@@ -1,0 +1,7 @@
+<map id="EnemyBase::getDestination" name="EnemyBase::getDestination">
+<area shape="rect" id="node2" href="$class_basic_enemy.html#aedc018318321fd37ba4a8bb9ad74b8ee" title="BasicEnemy::BasicEnemy" alt="" coords="237,5,416,32"/>
+<area shape="rect" id="node3" href="$class_feministi.html#aa1bdab65ea886c25d8e5c5c2f7b2d41c" title="Feministi::Feministi" alt="" coords="259,56,395,83"/>
+<area shape="rect" id="node4" href="$class_humanisti.html#a81ec035cfbe05e97d8a63fd1a6dada8b" title="Humanisti::Humanisti" alt="" coords="253,107,400,133"/>
+<area shape="rect" id="node5" href="$class_raitsikka.html#a4d261e4d8c9fa7463590c67741cd909e" title="Raitsikka::Raitsikka" alt="" coords="257,157,396,184"/>
+<area shape="rect" id="node6" href="$class_tuniboss.html#af2262d0b9fcc5e08071a6d7141ba831e" title="Tuniboss::Tuniboss" alt="" coords="259,208,394,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="headquarter::takeDamage" name="headquarter::takeDamage">
+<area shape="rect" id="node2" href="$class_object_manager.html#a3f15a92fabc8eac756a4adb337361840" title="ObjectManager::gameOver" alt="" coords="224,13,400,39"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#ab78d0f1b42162f594318fbcd2db7b899" title="ObjectManager::resetSpace\lStates" alt="" coords="448,5,632,47"/>
+</map>

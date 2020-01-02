@@ -1,0 +1,7 @@
+<map id="EnemyBase" name="EnemyBase">
+<area shape="rect" id="node4" href="$class_basic_enemy.html" title="BasicEnemy" alt="" coords="5,155,101,181"/>
+<area shape="rect" id="node5" href="$class_feministi.html" title="Feministi" alt="" coords="125,155,200,181"/>
+<area shape="rect" id="node6" href="$class_humanisti.html" title="Humanisti" alt="" coords="224,155,304,181"/>
+<area shape="rect" id="node7" href="$class_raitsikka.html" title="Raitsikka" alt="" coords="329,155,405,181"/>
+<area shape="rect" id="node8" href="$class_tuniboss.html" title="Tuniboss" alt="" coords="429,155,504,181"/>
+</map>

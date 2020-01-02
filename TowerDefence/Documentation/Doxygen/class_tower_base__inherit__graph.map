@@ -1,0 +1,7 @@
+<map id="TowerBase" name="TowerBase">
+<area shape="rect" id="node4" href="$class_duo.html" title="Duo" alt="" coords="5,155,51,181"/>
+<area shape="rect" id="node5" href="$class_matriisit.html" title="Matriisit" alt="" coords="75,155,143,181"/>
+<area shape="rect" id="node6" href="$class_mikontalo.html" title="Mikontalo" alt="" coords="167,155,246,181"/>
+<area shape="rect" id="node7" href="$class_t_torni.html" title="TTorni" alt="" coords="270,155,327,181"/>
+<area shape="rect" id="node8" href="$class_wainola.html" title="Wainola" alt="" coords="352,155,421,181"/>
+</map>

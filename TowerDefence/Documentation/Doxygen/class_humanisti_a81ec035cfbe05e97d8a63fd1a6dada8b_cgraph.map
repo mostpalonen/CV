@@ -1,0 +1,9 @@
+<map id="Humanisti::Humanisti" name="Humanisti::Humanisti">
+<area shape="rect" id="node2" href="$class_enemy_base.html#af6c9612d32f18d6dcfebc4f41b6c097d" title="EnemyBase::getDestination" alt="" coords="200,5,384,32"/>
+<area shape="rect" id="node3" href="$class_enemy_base.html#a83d461cb4e43a456872946a5610721ed" title="EnemyBase::getPointIndex" alt="" coords="202,56,382,83"/>
+<area shape="rect" id="node4" href="$class_humanisti.html#a4842f175c37fe868d50a4a238a3e139e" title="Humanisti::moveForward" alt="" coords="210,107,374,133"/>
+<area shape="rect" id="node6" href="$class_humanisti.html#a49685f63426a2fc5965f708e44d1635a" title="Humanisti::checkHit" alt="" coords="223,157,361,184"/>
+<area shape="rect" id="node5" href="$class_enemy_base.html#af3182223958bc613067bbfa0ae0502fc" title="EnemyBase::rotateToPoint" alt="" coords="432,107,611,133"/>
+<area shape="rect" id="node7" href="$class_humanisti.html#a84749985fd160eda54f99d022d412b93" title="Humanisti::setHealth" alt="" coords="450,157,593,184"/>
+<area shape="rect" id="node8" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="457,208,586,235"/>
+</map>

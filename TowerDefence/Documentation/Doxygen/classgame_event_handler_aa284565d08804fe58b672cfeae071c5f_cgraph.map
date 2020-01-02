@@ -1,0 +1,26 @@
+<map id="gameEventHandler::startWave" name="gameEventHandler::startWave">
+<area shape="rect" id="node2" href="$class_main_window.html#a9520ad6fc26de27bf160f83e4a0799c3" title="MainWindow::roundStatus" alt="" coords="1270,43,1445,69"/>
+<area shape="rect" id="node4" href="$class_sound_engine.html#aeecdbdcbc7a9967132ed7be96df8acdd" title="SoundEngine::playSound" alt="" coords="1273,473,1441,500"/>
+<area shape="rect" id="node5" href="$class_main_window.html#af59d5ba1129b9ae20ff7d8703cc218d8" title="MainWindow::operateTextBrowser" alt="" coords="983,93,1202,120"/>
+<area shape="rect" id="node6" href="$classgame_event_handler.html#aab3bdaaf9ed271f63f4ff1613ce75670" title="gameEventHandler::checkGoal" alt="" coords="266,372,466,399"/>
+<area shape="rect" id="node20" href="$classgame_event_handler.html#a04381c23d490e6e8dcbe1d60af3cb160" title="gameEventHandler::spawnEnemy" alt="" coords="258,727,474,753"/>
+<area shape="rect" id="node22" href="$classgame_event_handler.html#aaae7723ebec61697e967f1c08b0c7315" title="gameEventHandler::spawnHumanisti" alt="" coords="249,524,483,551"/>
+<area shape="rect" id="node23" href="$classgame_event_handler.html#a4265a8d693bb7bef9704b78f83beca83" title="gameEventHandler::spawnFeministi" alt="" coords="252,575,480,601"/>
+<area shape="rect" id="node24" href="$classgame_event_handler.html#a7b180aeff8df34a588b053b68089e12e" title="gameEventHandler::spawnRaitsikka" alt="" coords="251,625,481,652"/>
+<area shape="rect" id="node25" href="$classgame_event_handler.html#a231d5b3ccec8e90c68a225797bee78e6" title="gameEventHandler::spawnFinalBoss" alt="" coords="249,676,483,703"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#a964f4d629a469bc6988f73e456dfaf43" title="ObjectManager::roundStatus" alt="" coords="1508,43,1696,69"/>
+<area shape="rect" id="node7" href="$classgame_event_handler.html#a53353fb6284b9c7fc9e5c9f87f8b4905" title="gameEventHandler::winWave" alt="" coords="531,296,720,323"/>
+<area shape="rect" id="node8" href="$class_sound_engine.html#a1da749d065878612fbeb8d99ae96fe19" title="SoundEngine::stopSounds" alt="" coords="1269,157,1445,184"/>
+<area shape="rect" id="node9" href="$classgame_event_handler.html#aa5f7b48a074f7514723498590d2e353c" title="gameEventHandler::clearTimers\lAndEnemies" alt="" coords="1255,215,1460,257"/>
+<area shape="rect" id="node10" href="$class_main_window.html#ae0983c630c349cc386acc4742f291d7a" title="MainWindow::passCost" alt="" coords="770,549,929,576"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a324363f0f6b758824dd5738e0affccf2" title="MainWindow::winRound" alt="" coords="769,144,929,171"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a5ac816ad3544af1c5e27d65ff6dbccec" title="MainWindow::gameOver" alt="" coords="768,296,931,323"/>
+<area shape="rect" id="node11" href="$class_resource_manager.html#afaa3bb857e520d34f22ab6266982987b" title="ResourceManager::modifyResource" alt="" coords="979,549,1207,576"/>
+<area shape="rect" id="node14" href="$class_object_manager.html#af1bc3c56e0a8212b2e80485750249dfa" title="ObjectManager::setHqHp" alt="" coords="1009,397,1177,424"/>
+<area shape="rect" id="node16" href="$classgame_event_handler.html#ad6afa0853ba364d246f3c6cd9bbb4a25" title="gameEventHandler::gameOver" alt="" coords="995,195,1191,221"/>
+<area shape="rect" id="node17" href="$class_object_manager.html#a3f15a92fabc8eac756a4adb337361840" title="ObjectManager::gameOver" alt="" coords="1005,296,1181,323"/>
+<area shape="rect" id="node19" href="$class_resource_manager.html#a6ec68f841e1d04796b5eb186692152a9" title="ResourceManager::forceResource" alt="" coords="983,245,1202,272"/>
+<area shape="rect" id="node15" href="$classheadquarter.html#ab95dc1c3875d331aa16bc521ea365dc3" title="headquarter::setHealth" alt="" coords="1281,397,1434,424"/>
+<area shape="rect" id="node18" href="$class_object_manager.html#ab78d0f1b42162f594318fbcd2db7b899" title="ObjectManager::resetSpace\lStates" alt="" coords="1265,289,1449,330"/>
+<area shape="rect" id="node21" href="$classgame_event_handler.html#a5dadcdb4f3af2ab3161cfdab17ad42d9" title="gameEventHandler::remove\lEnemy" alt="" coords="536,593,715,634"/>
+</map>

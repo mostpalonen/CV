@@ -1,0 +1,4 @@
+<map id="Humanisti::checkHit" name="Humanisti::checkHit">
+<area shape="rect" id="node2" href="$class_humanisti.html#a84749985fd160eda54f99d022d412b93" title="Humanisti::setHealth" alt="" coords="192,5,335,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="199,56,328,83"/>
+</map>

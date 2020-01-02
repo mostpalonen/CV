@@ -1,0 +1,15 @@
+<map id="MainWindow::giveUp" name="MainWindow::giveUp">
+<area shape="rect" id="node2" href="$class_main_window.html#a5ac816ad3544af1c5e27d65ff6dbccec" title="MainWindow::gameOver" alt="" coords="196,183,359,209"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#af1bc3c56e0a8212b2e80485750249dfa" title="ObjectManager::setHqHp" alt="" coords="432,56,600,83"/>
+<area shape="rect" id="node5" href="$classgame_event_handler.html#ad6afa0853ba364d246f3c6cd9bbb4a25" title="gameEventHandler::gameOver" alt="" coords="418,132,614,159"/>
+<area shape="rect" id="node11" href="$class_object_manager.html#a3f15a92fabc8eac756a4adb337361840" title="ObjectManager::gameOver" alt="" coords="428,183,604,209"/>
+<area shape="rect" id="node13" href="$class_main_window.html#af59d5ba1129b9ae20ff7d8703cc218d8" title="MainWindow::operateTextBrowser" alt="" coords="407,233,625,260"/>
+<area shape="rect" id="node14" href="$class_resource_manager.html#a6ec68f841e1d04796b5eb186692152a9" title="ResourceManager::forceResource" alt="" coords="407,284,625,311"/>
+<area shape="rect" id="node4" href="$classheadquarter.html#ab95dc1c3875d331aa16bc521ea365dc3" title="headquarter::setHealth" alt="" coords="699,5,853,32"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a9520ad6fc26de27bf160f83e4a0799c3" title="MainWindow::roundStatus" alt="" coords="689,56,863,83"/>
+<area shape="rect" id="node8" href="$class_sound_engine.html#a1da749d065878612fbeb8d99ae96fe19" title="SoundEngine::stopSounds" alt="" coords="688,107,864,133"/>
+<area shape="rect" id="node9" href="$class_sound_engine.html#aeecdbdcbc7a9967132ed7be96df8acdd" title="SoundEngine::playSound" alt="" coords="692,157,860,184"/>
+<area shape="rect" id="node10" href="$classgame_event_handler.html#aa5f7b48a074f7514723498590d2e353c" title="gameEventHandler::clearTimers\lAndEnemies" alt="" coords="673,209,879,250"/>
+<area shape="rect" id="node7" href="$class_object_manager.html#a964f4d629a469bc6988f73e456dfaf43" title="ObjectManager::roundStatus" alt="" coords="927,56,1115,83"/>
+<area shape="rect" id="node12" href="$class_object_manager.html#ab78d0f1b42162f594318fbcd2db7b899" title="ObjectManager::resetSpace\lStates" alt="" coords="684,274,868,315"/>
+</map>

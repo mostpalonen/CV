@@ -1,0 +1,21 @@
+<map id="managers/gameeventhandler.h" name="managers/gameeventhandler.h">
+<area shape="rect" id="node2" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="785,80,887,107"/>
+<area shape="rect" id="node9" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="988,379,1105,405"/>
+<area shape="rect" id="node12" href="$enemybase_8cpp.html" title="enemies/enemybase.cpp" alt="" coords="1317,229,1483,256"/>
+<area shape="rect" id="node13" href="$gameeventhandler_8cc.html" title="managers/gameeventhandler.cc" alt="" coords="1508,229,1713,256"/>
+<area shape="rect" id="node20" href="$basicenemy_8cpp.html" title="enemies/basicenemy.cpp" alt="" coords="1788,80,1959,107"/>
+<area shape="rect" id="node3" href="$basicbullet_8cpp.html" title="bullets/basicbullet.cpp" alt="" coords="1085,155,1235,181"/>
+<area shape="rect" id="node4" href="$headquarter_8h.html" title="towers/headquarter.h" alt="" coords="1311,155,1454,181"/>
+<area shape="rect" id="node8" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="12,304,207,331"/>
+<area shape="rect" id="node14" href="$headquarter_8cpp.html" title="towers/headquarter.cpp" alt="" coords="1084,229,1241,256"/>
+<area shape="rect" id="node15" href="$bullet_8cpp.html" title="bullets/bullet.cpp" alt="" coords="260,155,380,181"/>
+<area shape="rect" id="node16" href="$moneybullet_8cpp.html" title="bullets/moneybullet.cpp" alt="" coords="405,155,563,181"/>
+<area shape="rect" id="node17" href="$secondary_8cpp.html" title="bullets/secondary.cpp" alt="" coords="588,155,737,181"/>
+<area shape="rect" id="node18" href="$toxicbullet_8cpp.html" title="bullets/toxicbullet.cpp" alt="" coords="762,155,910,181"/>
+<area shape="rect" id="node19" href="$main_8cpp.html" title="main.cpp" alt="" coords="935,155,1009,181"/>
+<area shape="rect" id="node5" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="209,229,420,256"/>
+<area shape="rect" id="node6" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="245,304,385,331"/>
+<area shape="rect" id="node11" href="$gameobjectmanager_8cpp.html" title="managers/gameobjectmanager.cpp" alt="" coords="409,304,634,331"/>
+<area shape="rect" id="node7" href="$buildingspace_8cpp.html" title="tiles/buildingspace.cpp" alt="" coords="237,379,392,405"/>
+<area shape="rect" id="node10" href="$resourcemanager_8cpp.html" title="managers/resourcemanager.cpp" alt="" coords="5,379,213,405"/>
+</map>

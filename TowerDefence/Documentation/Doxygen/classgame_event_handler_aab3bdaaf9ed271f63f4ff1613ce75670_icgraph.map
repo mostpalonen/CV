@@ -1,0 +1,5 @@
+<map id="gameEventHandler::checkGoal" name="gameEventHandler::checkGoal">
+<area shape="rect" id="node2" href="$classgame_event_handler.html#aa284565d08804fe58b672cfeae071c5f" title="gameEventHandler::startWave" alt="" coords="253,5,449,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#aa05813d353cccf400d3561cc309089af" title="MainWindow::startGame" alt="" coords="497,5,663,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="711,5,889,32"/>
+</map>

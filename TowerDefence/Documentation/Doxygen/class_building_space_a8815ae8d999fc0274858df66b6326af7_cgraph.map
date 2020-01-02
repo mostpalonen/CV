@@ -1,0 +1,5 @@
+<map id="BuildingSpace::mousePressEvent" name="BuildingSpace::mousePressEvent">
+<area shape="rect" id="node2" href="$class_object_manager.html#a64cc8cae8dd7bad7c5c607c971d4e21a" title="ObjectManager::getBuildMode" alt="" coords="240,5,437,32"/>
+<area shape="rect" id="node3" href="$class_object_manager.html#aea81f5e3b5f5c16f360c8d37eba6f496" title="ObjectManager::addTower" alt="" coords="252,56,425,83"/>
+<area shape="rect" id="node4" href="$class_object_manager.html#aea36cf4581c0f4176cd8768c90dc024e" title="ObjectManager::addRes" alt="" coords="485,56,648,83"/>
+</map>

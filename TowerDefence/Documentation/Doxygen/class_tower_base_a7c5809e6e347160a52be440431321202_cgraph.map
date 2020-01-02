@@ -1,0 +1,5 @@
+<map id="TowerBase::TowerBase" name="TowerBase::TowerBase">
+<area shape="rect" id="node2" href="$class_tower_base.html#a12208ce9e906c20a901238028fa6fbda" title="TowerBase::get_target" alt="" coords="212,31,364,57"/>
+<area shape="rect" id="node3" href="$class_tower_base.html#a822b5cf1bbdee56dfc50db469219ac35" title="TowerBase::distanceTo" alt="" coords="412,5,569,32"/>
+<area shape="rect" id="node4" href="$class_tower_base.html#a43912e85d07af54afb79bc8ea9dbaa7a" title="TowerBase::fire" alt="" coords="435,56,546,83"/>
+</map>

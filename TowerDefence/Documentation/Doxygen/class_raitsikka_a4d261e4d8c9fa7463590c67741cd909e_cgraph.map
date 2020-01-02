@@ -1,0 +1,9 @@
+<map id="Raitsikka::Raitsikka" name="Raitsikka::Raitsikka">
+<area shape="rect" id="node2" href="$class_enemy_base.html#af6c9612d32f18d6dcfebc4f41b6c097d" title="EnemyBase::getDestination" alt="" coords="192,5,376,32"/>
+<area shape="rect" id="node3" href="$class_enemy_base.html#a83d461cb4e43a456872946a5610721ed" title="EnemyBase::getPointIndex" alt="" coords="194,56,374,83"/>
+<area shape="rect" id="node4" href="$class_raitsikka.html#a0d633d02106a98b9d443d4d6f2d661bb" title="Raitsikka::moveForward" alt="" coords="204,107,364,133"/>
+<area shape="rect" id="node6" href="$class_raitsikka.html#a80afeeb0ab18d87da924118f681069db" title="Raitsikka::checkHit" alt="" coords="217,157,351,184"/>
+<area shape="rect" id="node5" href="$class_enemy_base.html#af3182223958bc613067bbfa0ae0502fc" title="EnemyBase::rotateToPoint" alt="" coords="424,107,603,133"/>
+<area shape="rect" id="node7" href="$class_raitsikka.html#add7810215875852476b3b3de476538c2" title="Raitsikka::setHealth" alt="" coords="444,157,583,184"/>
+<area shape="rect" id="node8" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="449,208,578,235"/>
+</map>

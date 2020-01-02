@@ -1,0 +1,9 @@
+<map id="Feministi::Feministi" name="Feministi::Feministi">
+<area shape="rect" id="node2" href="$class_enemy_base.html#af6c9612d32f18d6dcfebc4f41b6c097d" title="EnemyBase::getDestination" alt="" coords="189,5,373,32"/>
+<area shape="rect" id="node3" href="$class_enemy_base.html#a83d461cb4e43a456872946a5610721ed" title="EnemyBase::getPointIndex" alt="" coords="191,56,371,83"/>
+<area shape="rect" id="node4" href="$class_feministi.html#af2202198d4a16e989e811742a3ce8372" title="Feministi::moveForward" alt="" coords="202,107,361,133"/>
+<area shape="rect" id="node6" href="$class_feministi.html#ae9cbea65f6ed37af380c26cb67c75f12" title="Feministi::checkHit" alt="" coords="214,157,349,184"/>
+<area shape="rect" id="node5" href="$class_enemy_base.html#af3182223958bc613067bbfa0ae0502fc" title="EnemyBase::rotateToPoint" alt="" coords="421,107,600,133"/>
+<area shape="rect" id="node7" href="$class_feministi.html#a8762d463672cb3da249b2c70a2bfc7ff" title="Feministi::setHealth" alt="" coords="441,157,580,184"/>
+<area shape="rect" id="node8" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="446,208,575,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="headquarter::headquarter" name="headquarter::headquarter">
+<area shape="rect" id="node2" href="$classheadquarter.html#acf9c61b176e1a9e7becc261ce8b2d8cc" title="headquarter::checkHit" alt="" coords="220,38,369,65"/>
+<area shape="rect" id="node3" href="$classheadquarter.html#a37890aa49f1f4bfe43e64310db4d7783" title="headquarter::takeDamage" alt="" coords="417,13,588,39"/>
+<area shape="rect" id="node6" href="$class_enemy_base.html#a7ee6506f324e10c957fc234970f1cc10" title="EnemyBase::getDamage" alt="" coords="419,63,586,90"/>
+<area shape="rect" id="node4" href="$class_object_manager.html#a3f15a92fabc8eac756a4adb337361840" title="ObjectManager::gameOver" alt="" coords="636,13,812,39"/>
+<area shape="rect" id="node5" href="$class_object_manager.html#ab78d0f1b42162f594318fbcd2db7b899" title="ObjectManager::resetSpace\lStates" alt="" coords="860,5,1044,47"/>
+</map>

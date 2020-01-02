@@ -1,0 +1,9 @@
+<map id="ResourceManager::checkResources" name="ResourceManager::checkResources">
+<area shape="rect" id="node2" href="$class_main_window.html#a6755e68cf52bab1d9867e24326713b6b" title="MainWindow::checkResources" alt="" coords="285,5,487,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a103451e5014ec6d4b40b135f7953bd78" title="MainWindow::buildWainola" alt="" coords="297,56,475,83"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a464b96401c27fb2f7a7738dc51535240" title="MainWindow::buildMikontalo" alt="" coords="293,107,479,133"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a4300ca5fc16385f075eb7635f994ff76" title="MainWindow::buildMatriisi" alt="" coords="299,157,473,184"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a9aa7f753774f5b148c007b80977bf85a" title="MainWindow::buildTTorni" alt="" coords="303,208,469,235"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a5a1472f4c82bf56a83c6deed23a905bc" title="MainWindow::buildDuo" alt="" coords="309,259,463,285"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="535,132,713,159"/>
+</map>

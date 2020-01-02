@@ -1,0 +1,10 @@
+<map id="gameEventHandler::removeEnemy" name="gameEventHandler::removeEnemy">
+<area shape="rect" id="node2" href="$classgame_event_handler.html#a04381c23d490e6e8dcbe1d60af3cb160" title="gameEventHandler::spawnEnemy" alt="" coords="241,5,457,32"/>
+<area shape="rect" id="node6" href="$classgame_event_handler.html#aaae7723ebec61697e967f1c08b0c7315" title="gameEventHandler::spawnHumanisti" alt="" coords="232,56,465,83"/>
+<area shape="rect" id="node7" href="$classgame_event_handler.html#a4265a8d693bb7bef9704b78f83beca83" title="gameEventHandler::spawnFeministi" alt="" coords="235,107,463,133"/>
+<area shape="rect" id="node8" href="$classgame_event_handler.html#a7b180aeff8df34a588b053b68089e12e" title="gameEventHandler::spawnRaitsikka" alt="" coords="234,157,463,184"/>
+<area shape="rect" id="node9" href="$classgame_event_handler.html#a231d5b3ccec8e90c68a225797bee78e6" title="gameEventHandler::spawnFinalBoss" alt="" coords="232,208,465,235"/>
+<area shape="rect" id="node3" href="$classgame_event_handler.html#aa284565d08804fe58b672cfeae071c5f" title="gameEventHandler::startWave" alt="" coords="513,107,709,133"/>
+<area shape="rect" id="node4" href="$class_main_window.html#aa05813d353cccf400d3561cc309089af" title="MainWindow::startGame" alt="" coords="757,107,923,133"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="971,107,1149,133"/>
+</map>

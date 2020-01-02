@@ -1,0 +1,5 @@
+<map id="Tuniboss::checkHit" name="Tuniboss::checkHit">
+<area shape="rect" id="node2" href="$class_tuniboss.html#a49caf6773c229612b19374370ffc01b6" title="Tuniboss::setHealth" alt="" coords="187,5,324,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#aab126a78a216f48835f0b5d71176ebb0" title="Bullet::getDamage" alt="" coords="191,56,320,83"/>
+<area shape="rect" id="node4" href="$class_tuniboss.html#a840880fc1cbeb92b9430d058b74094e5" title="Tuniboss::getHealth" alt="" coords="187,107,324,133"/>
+</map>

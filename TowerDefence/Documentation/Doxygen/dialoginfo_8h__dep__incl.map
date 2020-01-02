@@ -1,0 +1,23 @@
+<map id="dialoginfo.h" name="dialoginfo.h">
+<area shape="rect" id="node2" href="$dialogstart_8h.html" title="dialogstart.h" alt="" coords="781,80,874,107"/>
+<area shape="rect" id="node22" href="$dialoginfo_8cpp.html" title="dialoginfo.cpp" alt="" coords="898,80,999,107"/>
+<area shape="rect" id="node3" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="712,155,815,181"/>
+<area shape="rect" id="node21" href="$dialogstart_8cpp.html" title="dialogstart.cpp" alt="" coords="839,155,946,181"/>
+<area shape="rect" id="node4" href="$basicbullet_8cpp.html" title="bullets/basicbullet.cpp" alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node5" href="$headquarter_8h.html" title="towers/headquarter.h" alt="" coords="404,229,547,256"/>
+<area shape="rect" id="node9" href="$resourcemanager_8h.html" title="managers/resourcemanager.h" alt="" coords="1186,379,1381,405"/>
+<area shape="rect" id="node10" href="$mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="814,453,931,480"/>
+<area shape="rect" id="node13" href="$enemybase_8cpp.html" title="enemies/enemybase.cpp" alt="" coords="232,304,399,331"/>
+<area shape="rect" id="node15" href="$headquarter_8cpp.html" title="towers/headquarter.cpp" alt="" coords="423,304,581,331"/>
+<area shape="rect" id="node16" href="$bullet_8cpp.html" title="bullets/bullet.cpp" alt="" coords="622,229,742,256"/>
+<area shape="rect" id="node17" href="$moneybullet_8cpp.html" title="bullets/moneybullet.cpp" alt="" coords="767,229,925,256"/>
+<area shape="rect" id="node18" href="$secondary_8cpp.html" title="bullets/secondary.cpp" alt="" coords="950,229,1099,256"/>
+<area shape="rect" id="node19" href="$toxicbullet_8cpp.html" title="bullets/toxicbullet.cpp" alt="" coords="1124,229,1272,256"/>
+<area shape="rect" id="node20" href="$main_8cpp.html" title="main.cpp" alt="" coords="1297,229,1371,256"/>
+<area shape="rect" id="node6" href="$gameobjectmanager_8h.html" title="managers/gameobjectmanager.h" alt="" coords="943,304,1154,331"/>
+<area shape="rect" id="node14" href="$gameeventhandler_8cc.html" title="managers/gameeventhandler.cc" alt="" coords="605,304,810,331"/>
+<area shape="rect" id="node7" href="$buildingspace_8h.html" title="tiles/buildingspace.h" alt="" coords="1409,379,1549,405"/>
+<area shape="rect" id="node12" href="$gameobjectmanager_8cpp.html" title="managers/gameobjectmanager.cpp" alt="" coords="936,379,1161,405"/>
+<area shape="rect" id="node8" href="$buildingspace_8cpp.html" title="tiles/buildingspace.cpp" alt="" coords="1406,453,1561,480"/>
+<area shape="rect" id="node11" href="$resourcemanager_8cpp.html" title="managers/resourcemanager.cpp" alt="" coords="1174,453,1382,480"/>
+</map>

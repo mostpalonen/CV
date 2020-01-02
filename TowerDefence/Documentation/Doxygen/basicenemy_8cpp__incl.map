@@ -1,0 +1,12 @@
+<map id="enemies/basicenemy.cpp" name="enemies/basicenemy.cpp">
+<area shape="rect" id="node2" href="$basicenemy_8h.html" title="basicenemy.h" alt="" coords="1697,155,1799,181"/>
+<area shape="rect" id="node13" href="$gameeventhandler_8h.html" title="managers/gameeventhandler.h" alt="" coords="1490,80,1689,107"/>
+<area shape="rect" id="node4" href="$enemybase_8h.html" title="enemybase.h" alt="" coords="1441,229,1541,256"/>
+<area shape="rect" id="node10" href="$soundengine_8h.html" title="managers/soundengine.h" alt="" coords="165,304,331,331"/>
+<area shape="rect" id="node16" href="$towerbase_8h.html" title="../towers/towerbase.h" alt="" coords="771,155,917,181"/>
+<area shape="rect" id="node28" href="$tuniboss_8h.html" title="../enemies/tuniboss.h" alt="" coords="1875,155,2021,181"/>
+<area shape="rect" id="node30" href="$humanisti_8h.html" title="../enemies/humanisti.h" alt="" coords="1204,155,1359,181"/>
+<area shape="rect" id="node31" href="$feministi_8h.html" title="../enemies/feministi.h" alt="" coords="1383,155,1529,181"/>
+<area shape="rect" id="node32" href="$raitsikka_8h.html" title="../enemies/raitsikka.h" alt="" coords="2045,155,2192,181"/>
+<area shape="rect" id="node26" href="$bullet_8h.html" title="bullets/bullet.h" alt="" coords="757,229,864,256"/>
+</map>

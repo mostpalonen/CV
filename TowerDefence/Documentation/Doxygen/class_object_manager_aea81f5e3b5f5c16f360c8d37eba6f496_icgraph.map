@@ -1,0 +1,5 @@
+<map id="ObjectManager::addTower" name="ObjectManager::addTower">
+<area shape="rect" id="node2" href="$class_main_window.html#a9aa7c25c5f65d9ffe32464301761752c" title="MainWindow::generateMap" alt="" coords="231,5,409,32"/>
+<area shape="rect" id="node4" href="$class_building_space.html#a8815ae8d999fc0274858df66b6326af7" title="BuildingSpace::mousePress\lEvent" alt="" coords="227,57,413,98"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="MainWindow::MainWindow" alt="" coords="461,5,640,32"/>
+</map>
