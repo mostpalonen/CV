@@ -1,0 +1,30 @@
+Snake: The Revengeance ohjeet
+
+Kuvaus:
+Tässä pelissä sinä pelaat pienenä matona, jonka tehtävä on syödä ruudulle ilmestyviä
+punaisia hedelmiä. Madon pää on vaalean vihreä ympyrä, ja sen ruumis koostuu tummemmista 
+ympyröistä. Häviät pelin, jos törmäät itseesi ja voitat, jos saat koko pelialueen
+täytettyä ruumiillasi. Pelin päättyessä ruudun alakulmaan ilmestyy kooste kierroksen 
+tuloksista (voitto/häviö, pisteet ja käytetty aika).
+
+Ohjaus:
+- W = ylös
+- A = vasen
+- S = alas
+- D = oikea
+- P = pause / tauko (kun painat P uudelleen, peli jatkuu)
+- R = reset / aloita alusta
+- ESC = close / sulje peli
+
+Lisäominaisuudet:
+- Pelissä voit vapaasti liikkua pelialueella ja pystyt kulkemaan reunojen yli
+  takaisin toiselle puolelle aluetta. 
+- Joka viides syömäsi punainen hedelmä lisää etenemisnopeuttasi hieman, 
+  kunnes saavuttaa maksimiarvon.
+- Pelissä on käänteisen ohjauksen pelimuoto. Ennen kuin aloitat pelin, voit
+  kytkeä sen päälle ruudun vasemmasta alalaidasta. Tämä täytyy tehdä joka kierroksella
+  erikseen.
+
+
+
+
