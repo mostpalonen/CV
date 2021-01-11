@@ -2,7 +2,7 @@
 Example projects from my studies to show my skillset
 
 
-Projects done with Python. These projects can be run using either Jupyter Notebook or compiled using Python with Anaconda libraries.
+Projects done with Python. Run by using either Jupyter Notebook or Python with Anaconda libraries.
 - Cifar10_NNets: a convolutional neural network classifier that recognizes objects in image using the cifar10 dataset.
 - Taxi: a machine learning script that teaches a taxi to drive around a simple grid to move passengers.
 
